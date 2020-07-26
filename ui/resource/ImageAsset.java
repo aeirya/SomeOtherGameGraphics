@@ -1,0 +1,7 @@
+package ui.resource;
+
+public enum ImageAsset {
+    GRASS, BLOCK, HEART_UI, HEALTH,
+    PLAYER_UP, PLAYER_RIGHT, PLAYER_DOWN, PLAYER_LEFT,
+    ENEMY_UP, ENEMY_RIGHT, ENEMY_DOWN, ENEMY_LEFT,
+}
